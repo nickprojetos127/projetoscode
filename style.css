@@ -1,0 +1,15 @@
+ body {
+     text-align: center;
+     
+ }
+ #Apps {
+     background-color: yellowgreen;
+ }
+    #myCarrosel {
+        background-color: greenyellow;
+    }
+
+    #myCarrosel img {
+height: 300px;
+margin: 30px;
+    }
